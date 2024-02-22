@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 requirements = [
     'lmdb~=0.98',
-    'pycapnp~=0.6.4',
+    'pycapnp~=1.0',
 ]
 
 setuptools.setup(
